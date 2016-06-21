@@ -1,0 +1,7 @@
+PP-02.03.00-139 -- Unterrahmen
+PP-02.03.00-140 -- Motorhalterung
+PP-02.03.00-141 -- Unterboden_links
+PP-02.03.00-142 -- Unterboden_rechts
+PP-02.03.00-143 -- Stossfaenger_Heck_links
+PP-02.03.00-144 -- Stossfaenger_Heck_rechts
+PP-02.03.00-145 -- Kuehler

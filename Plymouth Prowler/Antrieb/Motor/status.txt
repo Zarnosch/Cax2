@@ -1,0 +1,6 @@
+PP-01.01.00-101 -- Motorblock
+PP-01.01.00-102 -- Zylinderkopfdeckel_links
+PP-01.01.00-103 -- Zylinderkopfdeckel_rechts
+PP-01.01.00-104 -- Oelfilter
+PP-01.01.00-105 -- Oelpumpe
+PP-01.01.00-106 -- Oelwanne

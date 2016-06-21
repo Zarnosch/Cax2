@@ -1,0 +1,8 @@
+Diese Datei ist dafür da, "Teile/Baugruppen" als "in Arbeit", "geplant zu bearbeiten" oder "fertig" zu markieren
+bsp:
+Janos : PP-01.00.00-001 Plymouth Prowler -- "in Arbeit"
+
+Für die Ordner selber habe ich keine status.txt angelegt. Einfach alle Bauteile aus dem Ordner ein einer Baugruppe zusammen bauen und auf gleicher Höhe ablegen.
+
+PP-01.01.00-003 -- Motor -> liegt im Ordner "Antrieb", also auf "gleicher Höhe" wie der Ordner "Motor"
+ 

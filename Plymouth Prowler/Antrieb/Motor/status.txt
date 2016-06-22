@@ -1,6 +1,6 @@
 PP-01.01.00-101 -- Motorblock				"fertig" -- Janos
-PP-01.01.00-102 -- Zylinderkopfdeckel_links		"geplant zu bearbeiten" -- Janos
-PP-01.01.00-103 -- Zylinderkopfdeckel_rechts		"geplant zu bearbeiten" -- Janos
-PP-01.01.00-104 -- Oelfilter				"geplant zu bearbeiten" -- Janos
-PP-01.01.00-105 -- Oelpumpe				"geplant zu bearbeiten" -- Janos
+PP-01.01.00-102 -- Zylinderkopfdeckel_links		"fertig" -- Janos
+PP-01.01.00-103 -- Zylinderkopfdeckel_rechts		"in Arbeit" -- Janos
+PP-01.01.00-104 -- Oelfilter				"fertig" -- Janos
+PP-01.01.00-105 -- Oelpumpe				"in Arbeit" -- Janos
 PP-01.01.00-106 -- Oelwanne				"geplant zu bearbeiten" -- Janos

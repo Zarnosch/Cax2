@@ -1,5 +1,5 @@
 PP-03.01.00-152 -- Cockpitschale
-PP-03.01.00-153 -- Sitz
-PP-03.01.00-154 -- Pedal
-PP-03.01.00-155 -- Handbremse
-PP-03.01.00-156 -- Schalthebel
+PP-03.01.00-153 -- Sitz [DONE -	Tamara]
+PP-03.01.00-154 -- Pedal [DONE - Tamara]
+PP-03.01.00-155 -- Handbremse [DONE - Tamara]
+PP-03.01.00-156 -- Schalthebel [DONE - Tamara]

@@ -1,6 +1,6 @@
-PP-03.01.01-146 -- Armaturenkonsole
-PP-03.01.01-147 -- Lenkrad
-PP-03.01.01-148 -- Lenkradwelle
-PP-03.01.01-149 -- Radio
-PP-03.01.01-150 -- Verstellrad
-PP-03.01.01-151 -- Lueftung
+PP-03.01.01-146 -- Armaturenkonsole [DONE - Tamara]
+PP-03.01.01-147 -- Lenkrad	[DONE - Tamara]
+PP-03.01.01-148 -- Lenkradwelle	[DONE - Tamara]
+PP-03.01.01-149 -- Radio	[DONE - Tamara]
+PP-03.01.01-150 -- Verstellrad	[DONE - Tamara]
+PP-03.01.01-151 -- Lueftung		[DONE - Tamara]
